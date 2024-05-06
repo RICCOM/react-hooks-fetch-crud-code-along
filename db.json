@@ -35,6 +35,72 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 15
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 16
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 17
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 18
+    },
+    {
+      "name": "Smocha",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 19
     }
   ]
 }
